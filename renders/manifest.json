@@ -1,0 +1,26 @@
+{
+  "_comment": "Staged by job per the narrative-positioning brief §12. Operator can replace any file in place; site reads from this manifest. role: hero | mechanism | evidence | og | park",
+  "assets": [
+    { "id": "veil-street", "file": "test-network-reveal-street.png", "role": "hero", "alt": "A person on a street with an amber context-thread reaching to a cyan city emitter — the Veil lifted." },
+    { "id": "connection-map", "file": "connection-map.png", "role": "hero", "alt": "Devices connected across a dark space — the substrate made visible." },
+    { "id": "zone-map", "file": "zone-map.png", "role": "hero", "alt": "A district at dusk rendered as a living mesh of light." },
+    { "id": "cityreach", "file": "cityreach-experience.png", "role": "hero", "alt": "A venue greeting a guest as an amber handshake fires." },
+    { "id": "goshii", "file": "goshii-experience.png", "role": "mechanism", "alt": "A restaurant recognition with a green value-settles ring." },
+    { "id": "pulse", "file": "pulse-experience.png", "role": "mechanism", "alt": "A person and the city's cyan civic mesh." },
+    { "id": "puck-counter", "file": "puck-on-counter.png", "role": "mechanism", "alt": "The merchant puck on a café counter beside a POS." },
+    { "id": "emitter-lamppost", "file": "emitter-on-lamppost.png", "role": "mechanism", "alt": "A city emitter on a lamppost with a faint cyan seam." },
+    { "id": "portal-hero", "file": "portal-hero-render.png", "role": "evidence", "alt": "The Portal — 3/4 studio render, amber light seam lit." },
+    { "id": "portal-seam-macro", "file": "portal-seam-macro.png", "role": "evidence", "alt": "Macro of the Portal's amber light seam." },
+    { "id": "portal-in-hand", "file": "portal-in-hand.png", "role": "evidence", "alt": "The Portal held in a hand for scale." },
+    { "id": "portal-family", "file": "portal-family-group.png", "role": "evidence", "alt": "Portal, merchant puck, and city emitter — one design language." },
+    { "id": "portal-cafe", "file": "portal-lifestyle-cafe.png", "role": "evidence", "alt": "The Portal on a café table beside a coffee." },
+    { "id": "theo-ref", "file": "theo-character-ref.png", "role": "evidence", "alt": "Character + product reference contact sheet." },
+    { "id": "og-default", "file": "test-network-reveal-street.png", "role": "og", "alt": "CityOS social card." },
+    { "id": "ar-glasses", "file": "portal-ar-glasses.png", "role": "park", "alt": "Support device: AR glasses." },
+    { "id": "home-bridge", "file": "portal-home-bridge.png", "role": "park", "alt": "Support device: home bridge." },
+    { "id": "sketch-ar-pov", "file": "sketch-ar-pov.png", "role": "park", "alt": "Concept sketch: AR POV." },
+    { "id": "sketch-ar-street", "file": "sketch-ar-street.png", "role": "park", "alt": "Concept sketch: AR street." },
+    { "id": "s7-day-one", "file": "test-s7-regular-day-one.png", "role": "evidence", "alt": "Recognized like a regular, day one — a café moment." },
+    { "id": "site-comp", "file": "image-b69e5196-0195-40b9-8062-d0462702dfa1.png", "role": "park", "alt": "Existing site comp — reference only." }
+  ]
+}
